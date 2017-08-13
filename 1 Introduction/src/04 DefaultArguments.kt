@@ -1,3 +1,7 @@
+/**
+ * http://kotlinlang.org/docs/reference/functions.html#default-arguments
+ * http://kotlinlang.ru/docs/reference/functions.html
+ */
 fun foo(name: String, number: Int = 42, toUpperCase: Boolean = false) =
         (if (toUpperCase) name.toUpperCase() else name) + number
 
