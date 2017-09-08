@@ -1,5 +1,9 @@
 /**
- * http://kotlinlang.org/docs/reference/control-flow.html#for-loops
+ * Kotlin for loop iterates through anything that provides an iterator. Make the class DateRange implement Iterable<MyDate>, so that it could be iterated over. You can use the function MyDate.nextDay().
+ * 
+ * data class MyDate(val year: Int, val month: Int, val dayOfMonth: Int) : Comparable<MyDate>
+ *
+ *  http://kotlinlang.org/docs/reference/control-flow.html#for-loops
  */ 
  
 import java.util.NoSuchElementException;
