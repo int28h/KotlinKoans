@@ -10,4 +10,5 @@
  * https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/kotlin.-iterable/sorted.html
  * https://kotlinlang.org/api/latest/jvm/stdlib/kotlin.collections/kotlin.-iterable/sorted-by.html
  */
-
+// Return a list of customers, sorted by the ascending number of orders they made
+fun Shop.getCustomersSortedByNumberOfOrders(): List<Customer> = customers.sortedBy({it.orders.size})
