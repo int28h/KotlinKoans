@@ -39,5 +39,5 @@
 [7](3_Collections/07_Sum.kt) Sum.  
 [8](3_Collections/08_GroupBy.kt) Group by.  
 [9](3_Collections/09_Partition.kt) Partition.  
-[10[((3_Collections/10_Fold.kt) Fold.  
+[10](3_Collections/10_Fold.kt) Fold.  
 [11](3_Collections/11_Compound_tasks.kt) Compound tasks.  
