@@ -51,3 +51,13 @@
 [02](4_Properties/2_Lazy_property.kt) Lazy property.  
 [03](4_Properties/3_Delegates_example.kt) Delegates example.  
 [04](4_Properties/4_Delegates.kt) Delegates.  
+  
+  
+  
+# Builders  
+  
+[01](5_Builders/1_Extension_function_literals.kt) Extension function literals.  
+[02](5_Builders/2_String_and_map_builders.kt) String and map builders.  
+[03](5_Builders/3_The_function_apply.kt) The function apply.  
+[04](5_Builders/4_Html_builder.kt) Html builder.  
+  
