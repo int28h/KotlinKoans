@@ -49,3 +49,5 @@
   
 [01](4_Properties/1_Properties.kt) Properties.  
 [02](4_Properties/2_Lazy_property.kt) Lazy property.  
+[03](4_Properties/3_Delegates_example.kt) Delegates example.  
+[04](4_Properties/4_Delegates.kt) Delegates.  
