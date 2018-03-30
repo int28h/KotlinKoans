@@ -47,5 +47,5 @@
   
 # Properties  
   
-[01](src/4_Properties/1_Properties.kt) Properties.  
-[02](src/4_Properties/2_Lazy_property.kt) Lazy property.  
+[01](4_Properties/1_Properties.kt) Properties.  
+[02](4_Properties/2_Lazy_property.kt) Lazy property.  
