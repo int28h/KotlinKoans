@@ -42,3 +42,10 @@
 [10](3_Collections/10_Fold.kt) Fold.  
 [11](3_Collections/11_Compound_tasks.kt) Compound tasks.  
 [12](3_Collections/12_Get_used_to_new_style.kt) Get used to new style.  
+  
+  
+  
+# Properties  
+  
+[01](src/4_Properties/1_Properties.kt) Properties.  
+[02](src/4_Properties/2_Lazy_property.kt) Lazy property.  
