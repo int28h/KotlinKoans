@@ -41,3 +41,4 @@
 [09](3_Collections/09_Partition.kt) Partition.  
 [10](3_Collections/10_Fold.kt) Fold.  
 [11](3_Collections/11_Compound_tasks.kt) Compound tasks.  
+[12](3_Collections/12_Get_used_to_new_style.kt) Get used to new style.  
