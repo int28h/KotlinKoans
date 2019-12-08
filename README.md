@@ -1,13 +1,13 @@
 # Задачи из курса [Введение в Kotlin JVM](https://stepik.org/course/5448)  
   
 [01](01_reverse_words_in_string.kt) Считайте 5 слов, введенных через пробел, и выведите их в обратном порядке.  
+[02](02_strings_interpolation.kt) Интерполяция строк.  
   
   
   
 # Kotlin Koans  
   
 ###### Introduction  
-  
 [01](koans/1_Introduction/01_HelloWorld.kt) Hello World  
 [02](koans/1_Introduction/02_JavaToKotlinConversation.kt) Java to Kotlin conversation  
 [03](koans/1_Introduction/03_NamedArguments.kt) Named arguments  
@@ -23,7 +23,6 @@
 [13](koans/1_Introduction/13_ExtensionFunctionsOnCollections.kt) Extension functions on collections  
   
 ###### Conventions  
-  
 [01](koans/2_Conventions/01_Comparison.kt) Comparison  
 [02](koans/2_Conventions/02_In_range.kt) In range  
 [03](koans/2_Conventions/03_Range_to.kt) Range to  
@@ -33,7 +32,6 @@
 [07](koans/2_Conventions/07_Invoke.kt) Invoke  
   
 ###### Collections  
-  
 [01](koans/3_Collections/01_Introduction.kt) Introduction  
 [02](koans/3_Collections/02_Filter;_map.kt) Filter; map  
 [03](koans/3_Collections/03_All,_Any_and_other_predicates.kt) All, Any and other predicates  
@@ -47,17 +45,13 @@
 [11](koans/3_Collections/11_Compound_tasks.kt) Compound tasks  
 [12](koans/3_Collections/12_Get_used_to_new_style.kt) Get used to new style  
   
-  
-  
 ###### Properties  
-  
 [01](koans/4_Properties/1_Properties.kt) Properties  
 [02](koans/4_Properties/2_Lazy_property.kt) Lazy property  
 [03](koans/4_Properties/3_Delegates_example.kt) Delegates example  
 [04](koans/4_Properties/4_Delegates.kt) Delegates  
   
 ###### Builders  
-  
 [01](koans/5_Builders/1_Extension_function_literals.kt) Extension function literals  
 [02](koans/5_Builders/2_String_and_map_builders.kt) String and map builders  
 [03](koans/5_Builders/3_The_function_apply.kt) The function apply  
