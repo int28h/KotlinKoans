@@ -1,7 +1,8 @@
 # Задачи из курса [Введение в Kotlin JVM](https://stepik.org/course/5448)  
   
-[01](01_reverse_words_in_string.kt) Считайте 5 слов, введенных через пробел, и выведите их в обратном порядке.  
-[02](02_strings_interpolation.kt) Интерполяция строк.  
+[01](introduction-to-kotlin-jvm/01_reverse_words_in_string.kt) Считайте 5 слов, введенных через пробел, и выведите их в обратном порядке.  
+[02](introduction-to-kotlin-jvm/02_strings_interpolation.kt) Интерполяция строк.  
+[03](introduction-to-kotlin-jvm/03_when.kt) Оператор when.  
   
   
   
