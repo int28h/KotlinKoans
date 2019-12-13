@@ -3,6 +3,8 @@
 [01](introduction-to-kotlin-jvm/01_reverse_words_in_string.kt) Считайте 5 слов, введенных через пробел, и выведите их в обратном порядке.  
 [02](introduction-to-kotlin-jvm/02_strings_interpolation.kt) Интерполяция строк.  
 [03](introduction-to-kotlin-jvm/03_when.kt) Оператор when.  
+[04](introduction-to-kotlin-jvm/04_basic_types_transformation.kt) Преобразование простых типов.  
+[05](introduction-to-kotlin-jvm/05_loops.kt) Циклы.  
   
   
   
