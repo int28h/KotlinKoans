@@ -1,10 +1,12 @@
 # Задачи из курса [Введение в Kotlin JVM](https://stepik.org/course/5448)  
   
-[01](introduction-to-kotlin-jvm/01_reverse_words_in_string.kt) Считайте 5 слов, введенных через пробел, и выведите их в обратном порядке.  
-[02](introduction-to-kotlin-jvm/02_strings_interpolation.kt) Интерполяция строк.  
-[03](introduction-to-kotlin-jvm/03_when.kt) Оператор when.  
-[04](introduction-to-kotlin-jvm/04_basic_types_transformation.kt) Преобразование простых типов.  
-[05](introduction-to-kotlin-jvm/05_loops.kt) Циклы.  
+[01](introduction-to-kotlin-jvm/01_input_and_output.kt) Ввод и вывод  
+[02](introduction-to-kotlin-jvm/02_basic_arithmetic.kt) Базовая арифметика  
+[03](introduction-to-kotlin-jvm/03_strings_1.kt) Работа со строками №1  
+[04](introduction-to-kotlin-jvm/04_tasks_1.kt) Задачи по изученным темам №1  
+[05](introduction-to-kotlin-jvm/05_boolean.kt) Логические выражения, сравнение переменных и тип Boolean  
+[06](introduction-to-kotlin-jvm/06_if.kt) Условный оператор, диапазоны чисел  
+[07](introduction-to-kotlin-jvm/07_reverse_engineering.kt) Практика - "Обратная разработка"  
   
   
   
