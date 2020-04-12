@@ -6,7 +6,19 @@
 [04](introduction-to-kotlin-jvm/04_tasks_1.kt) Задачи по изученным темам №1  
 [05](introduction-to-kotlin-jvm/05_boolean.kt) Логические выражения, сравнение переменных и тип Boolean  
 [06](introduction-to-kotlin-jvm/06_if.kt) Условный оператор, диапазоны чисел  
-[07](introduction-to-kotlin-jvm/07_reverse_engineering.kt) Практика - "Обратная разработка"  
+[07](introduction-to-kotlin-jvm/07_when.kt) Оператор when  
+[08](introduction-to-kotlin-jvm/08_double_math.kt) Тип Double, библиотека Math  
+[09](introduction-to-kotlin-jvm/09_tasks_2.kt) Задачи по изученным темам №2  
+[10](introduction-to-kotlin-jvm/10_strings_2.kt) Работа со строками №2  
+[11](introduction-to-kotlin-jvm/11_chars.kt) Char, спецсимволы и экранирование  
+[12](introduction-to-kotlin-jvm/12_converting_simple_types.kt) Преобразование простых типов  
+[13](introduction-to-kotlin-jvm/13_for_repeat_arrays.kt) Оператор цикла for, repeat и массивы  
+[14](introduction-to-kotlin-jvm/14_functions.kt) Функции  
+[15](introduction-to-kotlin-jvm/15_arrays_and_cycles.kt) Массивы и циклы - задачи  
+[16](introduction-to-kotlin-jvm/16_while.kt) Цикл while, операторы управления циклом  
+[17](introduction-to-kotlin-jvm/17_classes.kt) Классы  
+[18](introduction-to-kotlin-jvm/18_inheritance_and_polymorphism.kt) Наследование и полиморфизм  
+[19](introduction-to-kotlin-jvm/19_enum_and_interface.kt) enum и interface  
   
   
   
